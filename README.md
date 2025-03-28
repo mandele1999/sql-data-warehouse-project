@@ -20,6 +20,13 @@ This project involves:
 3. **Data Modeling:** Developing fact and dimension tables optimized for analytical queries.
 4. **Analytics & Reporting:** Creating SQL-based reports and dashboards for actionable insights.
 
+## 🏗 Data Architecture
+The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
+
+1. **Bronze Layer:** Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
+2. **Silver Layer:** This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
+3. **Gold Layer:** Houses business-ready data modeled into a star schema required for reporting and analytics.
+
 ## 🚀 Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
@@ -32,7 +39,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Data Quality**: Cleanse and resolve data quality issues before analysis.
 - **Integration**: Combine both sources into a user-friendly data model for analytical queries.
 - **Scope**: Focus on the latest dataset only; historization of data is not required.
-- **Documentation**: Provide clear data model documentation to support both business stakeholders and analytics teams.
+- **Documentation**: Provide clear data model documentation to support business stakeholders and analytics teams.
 
 ---
 
