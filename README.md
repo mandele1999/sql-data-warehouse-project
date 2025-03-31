@@ -55,6 +55,10 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 ---
+## Acknowledgements
+Special thanks to [Baraa](https://www.linkedin.com/in/baraa-khatib-salkini/) for their invaluable guidance and support throughout this project. Their insights and expertise in SQL and data architecture played a crucial role in shaping this project.
+
+---
 
 ## License 
 
