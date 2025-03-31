@@ -56,7 +56,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 ## Acknowledgements
-Special thanks to [Baraa Khatib Salkini](https://www.linkedin.com/in/baraa-khatib-salkini/) for their invaluable guidance and support throughout this project. Their insights and expertise in SQL and data architecture played a crucial role in shaping this project.
+Special thanks to [Baraa Khatib Salkini](https://www.linkedin.com/in/baraa-khatib-salkini/) for their invaluable guidance and support throughout this project. His insights and expertise in SQL and data architecture played a crucial role in shaping this project.
 
 ---
 
