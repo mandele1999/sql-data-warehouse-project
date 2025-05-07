@@ -1,4 +1,5 @@
 # Data Warehouse and Analytics Project
+![warehouse](https://github.com/user-attachments/assets/f5c6bf50-d1a3-4a6d-b529-54439c0a874d)
 
 Welcome to the **Data Warehouse & Analytics Project** repository!🚀 
 
